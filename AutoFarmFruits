@@ -1,0 +1,5 @@
+ServerHopTimer = 5
+TeleportSafe = true
+Team = "Marine"
+Webhook = "https://discord.com/api/webhooks/1321171024871424091/9lp4PxqSFtH6WcGndIklE2xQXnRm0u6x-hxMmQJGVG9E1a93G2TT5ahWGXo_FbPw9MG_"
+_G.Version="Fruit Farm"loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))()
